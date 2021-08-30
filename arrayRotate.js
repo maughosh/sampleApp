@@ -1,7 +1,7 @@
 /*
 Array rotation means you need to rotate the elements of an array in the right or left direction by given number of positions.
 For example, if {1, 2, 3, 4, 5, 6, 7} is an input array then rotating this array in the left direction by two positions
-will give {3, 4, 5, 6, 7, 1, 2} and rotating in the right direction by two positions will give {6, 7, 1, 2, 3, 4, 5}.
+will give {3, 4, 5, 6, 7, 1, 2} and rotating in the right direction by two positions will give {6, 7, 1, 2, 3, 4, 5}
 */
 
 function Rotate(arr,left,right){
